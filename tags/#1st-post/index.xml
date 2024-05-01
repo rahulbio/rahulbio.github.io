@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#1st Post on Rahul K</title>
+    <link>http://localhost:1313/tags/%231st-post/</link>
+    <description>Recent content in #1st Post on Rahul K</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 27 Apr 2024 12:32:12 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%231st-post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>123</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Sat, 27 Apr 2024 12:32:12 +0530</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>Hi, This is my first post.</description>
+    </item>
+  </channel>
+</rss>
